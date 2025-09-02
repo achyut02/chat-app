@@ -1,3 +1,5 @@
+[![CI](https://github.com/achyut02/chat-app/actions/workflows/ci.yml/badge.svg)](https://github.com/achyut02/chat-app/actions/workflows/ci.yml)
+
 Chat App (React Native + Node.js + Socket.IO) — MVP
 
 Structure:
