@@ -23,3 +23,4 @@ Sample users (seed):
 - alice@example.com / password
 - bob@example.com / password
 - charlie@example.com / password
+
